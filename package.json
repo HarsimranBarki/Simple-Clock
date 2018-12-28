@@ -1,0 +1,22 @@
+{
+  "name": "js-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarsimranBarki/Simple-Clock.git"
+  },
+  "keywords": [
+    "Clock"
+  ],
+  "author": "Harsimran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarsimranBarki/Simple-Clock/issues"
+  },
+  "homepage": "https://github.com/HarsimranBarki/Simple-Clock#readme"
+}
